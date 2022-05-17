@@ -4,7 +4,7 @@ Use this repository to create proposals for new Stencil Community packages.
 
 ## Usage
 
-Proposals are written in issues.
+Proposals are written in [issues in this repository](https://github.com/stencil-community/proposals/issues).
 
 To create a new proposal,
 
