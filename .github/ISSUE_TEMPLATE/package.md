@@ -24,5 +24,5 @@ Propose a human-readable name for the package as well as its package name.
 ### Description
 
 <!--
-Describe the platform.
+Describe the package - be sure to include what it would do, its audience, and how it differentiates itself from any existing packages.  
 -->
